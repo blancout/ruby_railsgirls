@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* To run the application type on terminal: rails server
+
+* Reference: https://guides.railsgirls.com/start
